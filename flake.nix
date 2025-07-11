@@ -37,7 +37,7 @@
 
         lockFileMaintenance = {
           enabled = true;
-          schedule = ["* 0 * * 1,4"];
+          schedule = ["* 4 * * 1,4"];
         };
 
         semanticCommits = "enabled";
